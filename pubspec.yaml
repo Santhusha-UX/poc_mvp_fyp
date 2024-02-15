@@ -1,0 +1,28 @@
+name: poc_mvp_fyp
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.2.6 <4.0.0'
+
+dependencies:
+  audioplayers: ^5.2.1
+  convert: ^3.1.1
+  flutter:
+    sdk: flutter
+  flutter_sound: ^9.2.13
+  google_fonts: ^6.1.0
+  http: ^1.2.0
+  icons_plus: ^5.0.0
+  just_audio: ^0.9.36
+  provider: ^6.1.1
+  shared_preferences: ^2.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
